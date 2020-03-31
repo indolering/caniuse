@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Firefox (prior to version 37) and [Safari](https://bugs.webkit.org/show_bug.cgi?id=149953) do not support IndexedDB inside web workers."
+      "description":"Firefox <37 and [Safari](https://bugs.webkit.org/show_bug.cgi?id=149953) <10 did not support IndexedDB inside web workers."
     },
     {
       "description":"[Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=781982) and [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/9968399/) do not support IndexedDB in private browsing mode."
